@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1040825741717",
+    "project_id": "pubnubdemo-8e839"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040825741717:android:ace048925e786435",
+        "android_client_info": {
+          "package_name": "com.example.shalini.pubnubdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLXft7BwkfX-sk7xURNA6ps1mcV8fUOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
